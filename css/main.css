@@ -3,4 +3,235 @@ body {
     background-image: url(/images/new_background_1.png);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100%;
 }
+
+.corobka {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.stil {
+    margin: 15px;
+    padding: 50px;
+    text-align: center;
+    height: 100%;
+}
+
+#c1 {
+    width: 30%;
+}
+
+#c2 {
+    width: 50%;
+}
+
+.orarulCursurilor {
+    padding: 15px 29px 15px 15px;
+    background-color: white;
+    font-weight: bold;
+    height: 20px;
+}
+
+.corobkaKnopok {
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    justify-content:space-between;
+}
+
+.stilKnopki1 {
+    margin: 10px 0px 10px 0px;
+    padding: 5px 15px 5px 15px;
+    height: 20px;
+    background-color: white;
+}
+
+.stilKnopki2 {
+    margin: 10px 0px 0px 0px;
+    padding: 5px 15px 5px 15px;
+    height: 20px;
+    background-color: green;
+}
+
+.stilKnopki3 {
+    margin: 10px 0px 0px 0px;
+    padding: 5px 15px 5px 15px;
+    height: 20px;
+    background-color: green;
+}
+
+.regimStudentStile {
+    text-align: left;
+    color: white;
+    height: 20px;
+}
+
+.poikStil {
+    margin-top: 20px;
+    padding: 15px 29px 15px 15px;
+    background-color: white;
+    height: 7px;
+}
+
+.imageSearchStyle{
+    width: 25px; 
+    height: 25px; 
+    margin-top: -8px;
+    position: relative;
+    float: left;
+
+}
+
+.textSearchStyle{
+    width: 25px; 
+    height: 25px; 
+    margin-top: -5px;
+    margin-left: 15px;
+    position: relative;
+    float: left;
+}
+
+.tableStilViborGrupi{
+    border-collapse: collapse;
+    margin-top: 15px;
+    height: 90px;
+    width: 100%;
+    background-color: white;
+}
+
+.strokaTablitsGreeniStil{
+    background-color: green;
+    height: 15px;
+    color: white;
+    padding-left: 5px;
+    text-align: left;
+    font-size: small;
+}
+
+.strokaTablitsiStil{
+    background-color: white;
+    height: 15px;
+}
+
+.textPoleStyle{
+    width: 25px; 
+    height: 25px; 
+    margin-top: -5px;
+    position: relative;
+    float: left;
+    white-space: nowrap; 
+    font-size: 16px;
+}
+
+.tableStilCalendar{
+    border-collapse: collapse;
+    margin-top: 15px;
+    height: 120px;
+    width: 100%;
+    background-color: white;
+    border-color: white ;
+}
+
+.strokaTablitsGreeniCalendarStil{
+    background-color: green;
+    height: 15px;
+    color: white;
+    padding-left: 5px;
+    text-align: left;
+    font-size: small;
+    white-space: nowrap;
+    border: 1px solid white;
+}
+
+.strokaTablitsiCalendarStilColona1{
+    background-color: green;
+    color: white;
+    border: 1px solid white;
+    font-size: 12px;
+}
+
+.colorSalat{
+    background-color: rgb(48, 232, 171);
+    font-size: 12px;
+    color: white;
+}
+
+.colorBlue{
+    background-color: darkblue;
+    font-size: 12px;
+    color: white;
+}
+
+.colorYellow{
+    background-color: yellow;
+    font-size: 12px;
+    color: black;
+}
+
+.colorPurple{
+    background-color: rgb(210, 170, 205);
+    font-size: 12px;
+    color: white;
+}
+
+.colorOrange{
+    background-color: orange;
+    font-size: 12px;
+    color: white;
+}
+
+.colorGrey{
+    background-color: grey;
+    font-size: 12px;
+    color: white;
+}
+
+.borderCalendarCell{
+    border: 1px solid black;
+}
+
+.sublitlesStil{
+    white-space: nowrap; color: white; font-size: 10px;
+    margin: 10px 5px 10px 5px;
+}
+
+.corobkaKnopok2 {
+    display: flex;
+    flex-direction: row;
+    height: 5px;
+    justify-content: flex-start;
+}
+
+.stilKnopki2-1 {
+    margin: 10px 5px 10px 0px;
+    padding: 5px 15px 5px 15px;
+    height: 10px;
+    background-color: seagreen;
+    white-space: nowrap; color: white; font-size: 10px;
+}
+
+.stilKnopki2-2 {
+    margin: 10px 5px 0px 0px;
+    padding: 5px 15px 5px 15px;
+    height: 10px;
+    background-color: rgb(212, 139, 151);
+    white-space: nowrap; color: white; font-size: 10px;
+}
+
+.stilKnopki2-3 {
+    margin: 10px 0px 0px 0px;
+    padding: 5px 15px 5px 15px;
+    height: 10px;
+    background-color: purple;
+    white-space: nowrap; color: white; font-size: 10px;
+}
+
+.footerStil{
+    padding: 15px 29px 15px 15px;
+    background-color: white;
+    height: 7px;
+    margin-top: 40px; font-size: 8px; color: seagreen;
+}
+
