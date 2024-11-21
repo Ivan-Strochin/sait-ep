@@ -52,14 +52,14 @@ body {
     margin: 10px 0px 0px 0px;
     padding: 5px 15px 5px 15px;
     height: 20px;
-    background-color: green;
+    background-color: seagreen;
 }
 
 .stilKnopki3 {
     margin: 10px 0px 0px 0px;
     padding: 5px 15px 5px 15px;
     height: 20px;
-    background-color: green;
+    background-color: seagreen;
 }
 
 .regimStudentStile {
@@ -102,7 +102,7 @@ body {
 }
 
 .strokaTablitsGreeniStil{
-    background-color: green;
+    background-color: seagreen;
     height: 15px;
     color: white;
     padding-left: 5px;
@@ -135,7 +135,7 @@ body {
 }
 
 .strokaTablitsGreeniCalendarStil{
-    background-color: green;
+    background-color: seagreen;
     height: 15px;
     color: white;
     padding-left: 5px;
@@ -146,7 +146,7 @@ body {
 }
 
 .strokaTablitsiCalendarStilColona1{
-    background-color: green;
+    background-color: seagreen;
     color: white;
     border: 1px solid white;
     font-size: 12px;
@@ -233,5 +233,13 @@ body {
     background-color: white;
     height: 7px;
     margin-top: 40px; font-size: 8px; color: seagreen;
+}
+
+/*  */
+.table3Column2{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    font-size: 12px;
 }
 
